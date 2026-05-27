@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-05-25)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-05-25)*
-- **[misty-step/thinktank](https://github.com/misty-step/thinktank)** `Elixir` — programmable cognition *(2026-05-24)*
-- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-22)*
-- **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-05-22)*
+- **[phrazzld/timeismoney](https://github.com/phrazzld/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-05-27)*
+- **[misty-step/conviction](https://github.com/misty-step/conviction)** `TypeScript` — Thesis-based portfolio visualization. See your beliefs, not just your assets. *(2026-05-26)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-26)*
+- **[phrazzld/spellbook](https://github.com/phrazzld/spellbook)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-26)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-05-26)*
 <!-- RECENT:END -->
 
 ---
