@@ -31,9 +31,9 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-31)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-31)*
 - **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-05-30)*
-- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Python` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-05-29)*
-- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `TypeScript` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-05-28)*
 - **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-05-28)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Elixir` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-05-28)*
 <!-- RECENT:END -->
