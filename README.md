@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-06-11)*
-- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-11)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-11)*
-- **[phrazzld/claude-config](https://github.com/phrazzld/claude-config)** `Python` *(2026-06-11)*
-- **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `CSS` — a design system *(2026-06-11)*
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-06-12)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-06-12)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-12)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-06-12)*
+- **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-06-12)*
 <!-- RECENT:END -->
 
 ---
