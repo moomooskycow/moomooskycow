@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/vibe-machine](https://github.com/misty-step/vibe-machine)** `TypeScript` — A cinematic audio visualizer forge. Lo-fi aesthetics, hi-fi physics. *(2026-06-17)*
+- **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `HTML` — a design system *(2026-06-17)*
+- **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-17)*
 - **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-17)*
-- **[phrazzld/vanity](https://github.com/phrazzld/vanity)** `JavaScript` — whadup *(2026-06-17)*
-- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `Rust` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-17)*
-- **[misty-step/landmark](https://github.com/misty-step/landmark)** `Rust` — Focused release pipeline: conventional commits → technical changelogs → LLM-synthesized user-facing release notes *(2026-06-17)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-17)*
+- **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-06-17)*
 <!-- RECENT:END -->
 
 ---
