@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `HTML` — a design system *(2026-06-17)*
-- **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-17)*
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-17)*
-- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-17)*
-- **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-06-17)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-06-19)*
+- **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-19)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-19)*
+- **[phrazzld/workbench](https://github.com/phrazzld/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-06-18)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-18)*
 <!-- RECENT:END -->
 
 ---
