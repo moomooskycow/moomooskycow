@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-06-21)*
-- **[misty-step/standby](https://github.com/misty-step/standby)** `Rust` — Local-first AI meeting command surface *(2026-06-21)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Rust` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-06-20)*
-- **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-20)*
-- **[phrazzld/workbench](https://github.com/phrazzld/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-06-20)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-06-22)*
+- **[misty-step/daedalus](https://github.com/misty-step/daedalus)** `Python` — Measured agent contract discovery and delivery harness *(2026-06-22)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-06-22)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-06-22)*
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-06-21)*
 <!-- RECENT:END -->
 
 ---
