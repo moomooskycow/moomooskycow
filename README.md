@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-07-03)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-03)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-03)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot monorepo: web app + Chrome extension *(2026-07-03)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-03)*
+- **[misty-step/standby](https://github.com/misty-step/standby)** `Rust` — Local-first AI meeting command surface *(2026-07-04)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-04)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-04)*
+- **[misty-step/curb](https://github.com/misty-step/curb)** `Rust` — A local watchdog for AI coding agents — catch runaway token spend, measured per turn since your last input. *(2026-07-04)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-07-04)*
 <!-- RECENT:END -->
 
 ---
