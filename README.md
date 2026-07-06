@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-06)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-07-06)*
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-06)*
+- **[misty-step/roster](https://github.com/misty-step/roster)** `Rust` *(2026-07-06)*
 - **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-07-05)*
-- **[misty-step/weave](https://github.com/misty-step/weave)** `Rust` *(2026-07-05)*
-- **[misty-step/glass](https://github.com/misty-step/glass)** `Rust` *(2026-07-05)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-05)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-05)*
 <!-- RECENT:END -->
 
 ---
