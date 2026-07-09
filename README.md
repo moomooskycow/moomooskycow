@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-08)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-08)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-08)*
-- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-07-08)*
-- **[misty-step/counterspell](https://github.com/misty-step/counterspell)** `Rust` — Watches your Claude sessions for silent model fallback and benignly compacts + resets them to your chosen model. Opt-in per session. *(2026-07-08)*
+- **[misty-step/landmark](https://github.com/misty-step/landmark)** `Rust` — Focused release pipeline: conventional commits → technical changelogs → LLM-synthesized user-facing release notes *(2026-07-09)*
+- **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `HTML` — a design system *(2026-07-09)*
+- **[misty-step/threshold](https://github.com/misty-step/threshold)** `Python` — Measured agent contract discovery and delivery harness *(2026-07-09)*
+- **[misty-step/harness-kit](https://github.com/misty-step/harness-kit)** `JavaScript` — Portable skill library for AI coding agents: debugging, PR workflows, design systems, incident response, and domain playbooks. *(2026-07-09)*
+- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Rust` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-07-09)*
 <!-- RECENT:END -->
 
 ---
