@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-13)*
+- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-12)*
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-12)*
 - **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `HTML` — a design system *(2026-07-12)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-12)*
-- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-12)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-11)*
-- **[misty-step/bench](https://github.com/misty-step/bench)** — A public benchmark laboratory — small, sharp, reproducible LLM benchmarks with their full method attached. Runs executed through Crucible. *(2026-07-11)*
 <!-- RECENT:END -->
 
 ---
