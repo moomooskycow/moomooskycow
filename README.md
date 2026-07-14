@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-14)*
+- **[moomooskycow/doomscrum](https://github.com/moomooskycow/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-07-14)*
+- **[moomooskycow/brainstorm-press-express-api](https://github.com/moomooskycow/brainstorm-press-express-api)** `TypeScript` — blogging platform api, with bitcoin lightning payments *(2026-07-14)*
+- **[moomooskycow/scratch](https://github.com/moomooskycow/scratch)** `Ruby` — disposable notes from the command line *(2026-07-14)*
 - **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-14)*
 - **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-07-14)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-14)*
-- **[phrazzld/workbench](https://github.com/phrazzld/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-07-14)*
 <!-- RECENT:END -->
 
 ---
