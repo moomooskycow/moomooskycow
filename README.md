@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-13)*
-- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-12)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-12)*
-- **[misty-step/aesthetic](https://github.com/misty-step/aesthetic)** `HTML` — a design system *(2026-07-12)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-12)*
+- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-14)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-14)*
+- **[misty-step/bitterblossom](https://github.com/misty-step/bitterblossom)** `Rust` — Declarative sprite factory for provisioning and orchestrating Claude Code agent fleets on Fly.io *(2026-07-14)*
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-14)*
+- **[phrazzld/workbench](https://github.com/phrazzld/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-07-14)*
 <!-- RECENT:END -->
 
 ---
