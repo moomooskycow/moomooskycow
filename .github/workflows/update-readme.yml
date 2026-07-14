@@ -25,7 +25,7 @@ jobs:
             // Get recently pushed repos across personal + org
             const [personal, org] = await Promise.all([
               github.rest.repos.listForUser({
-                username: 'phrazzld',
+                username: 'moomooskycow',
                 sort: 'pushed',
                 per_page: 10,
                 type: 'owner'
@@ -38,7 +38,7 @@ jobs:
             ]);
 
             const allRepos = [...personal.data, ...org.data]
-              .filter(r => !r.fork && r.name !== 'phrazzld')
+              .filter(r => !r.fork && r.name !== 'moomooskycow')
               .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
               .slice(0, 5);
 
