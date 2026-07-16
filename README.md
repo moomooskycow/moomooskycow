@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-15)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-15)*
-- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-15)*
+- **[moomooskycow/doomscrum](https://github.com/moomooskycow/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-07-15)*
 - **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-15)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-07-15)*
+- **[misty-step/memory-engine](https://github.com/misty-step/memory-engine)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-15)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-15)*
+- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-15)*
 <!-- RECENT:END -->
 
 ---
