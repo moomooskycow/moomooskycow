@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-19)*
-- **[misty-step/kelpie](https://github.com/misty-step/kelpie)** `Rust` — Phone-first console for triaging a fleet of omp coding agents in herdr terminal workspaces *(2026-07-19)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-20)*
+- **[misty-step/kelpie](https://github.com/misty-step/kelpie)** `Rust` — Phone-first console for triaging a fleet of omp coding agents in herdr terminal workspaces *(2026-07-20)*
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-20)*
+- **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-20)*
 - **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Rust` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-07-18)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-18)*
-- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-07-18)*
 <!-- RECENT:END -->
 
 ---
