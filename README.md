@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-21)*
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-20)*
 - **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-20)*
 - **[misty-step/kelpie](https://github.com/misty-step/kelpie)** `Rust` — Phone-first console for triaging a fleet of omp coding agents in herdr terminal workspaces *(2026-07-20)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-20)*
 - **[misty-step/roster](https://github.com/misty-step/roster)** `JavaScript` *(2026-07-20)*
-- **[misty-step/cerberus](https://github.com/misty-step/cerberus)** `Rust` — Multi-agent AI code review council — 5 parallel KimiCode agents gate every PR *(2026-07-18)*
 <!-- RECENT:END -->
 
 ---
