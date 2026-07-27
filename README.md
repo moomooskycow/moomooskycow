@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-25)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-25)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-25)*
-- **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-07-25)*
-- **[moomooskycow/glance](https://github.com/moomooskycow/glance)** `Go` — autogen quick summaries of every directory *(2026-07-25)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-27)*
+- **[moomooskycow/person-dedupe-prototype](https://github.com/moomooskycow/person-dedupe-prototype)** `TypeScript` — Reference implementation: duplicate person-record detection, review, and reversible merge (deterministic + LLM two-layer) *(2026-07-27)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-26)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-26)*
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-26)*
 <!-- RECENT:END -->
 
 ---
