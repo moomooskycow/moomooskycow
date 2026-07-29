@@ -31,8 +31,8 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-29)*
 - **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-07-28)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-28)*
 - **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-07-27)*
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-27)*
 - **[moomooskycow/person-dedupe-prototype](https://github.com/moomooskycow/person-dedupe-prototype)** `TypeScript` — Reference implementation: duplicate person-record detection, review, and reversible merge (deterministic + LLM two-layer) *(2026-07-27)*
