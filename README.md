@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[moomooskycow/workbench](https://github.com/moomooskycow/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-07-31)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-07-31)*
-- **[moomooskycow/vanity](https://github.com/moomooskycow/vanity)** `JavaScript` — whadup *(2026-07-31)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-07-31)*
-- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-07-29)*
+- **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-08-01)*
+- **[moomooskycow/ponder](https://github.com/moomooskycow/ponder)** `Rust` — blazingly fast note-taking cli *(2026-08-01)*
+- **[moomooskycow/neovim-config](https://github.com/moomooskycow/neovim-config)** `Lua` — "the best investment is in the tools of one's trade" *(2026-08-01)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-08-01)*
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-08-01)*
 <!-- RECENT:END -->
 
 ---
