@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[moomooskycow/workbench](https://github.com/moomooskycow/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-08-02)*
+- **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-08-02)*
 - **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-08-01)*
 - **[moomooskycow/ponder](https://github.com/moomooskycow/ponder)** `Rust` — blazingly fast note-taking cli *(2026-08-01)*
 - **[moomooskycow/neovim-config](https://github.com/moomooskycow/neovim-config)** `Lua` — "the best investment is in the tools of one's trade" *(2026-08-01)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-08-01)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-08-01)*
 <!-- RECENT:END -->
 
 ---
