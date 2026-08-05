@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `HTML` *(2026-08-05)*
+- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` *(2026-08-04)*
 - **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-08-04)*
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-08-03)*
 - **[moomooskycow/workbench](https://github.com/moomooskycow/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-08-02)*
-- **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-08-02)*
-- **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-08-01)*
 <!-- RECENT:END -->
 
 ---
