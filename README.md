@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-06)*
+- **[moomooskycow/person-dedupe-prototype](https://github.com/moomooskycow/person-dedupe-prototype)** `TypeScript` — Reference implementation: duplicate person-record detection, review, and reversible merge (deterministic + LLM two-layer) *(2026-08-07)*
+- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-07)*
 - **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` *(2026-08-05)*
 - **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-08-05)*
 - **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-08-05)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-08-04)*
 <!-- RECENT:END -->
 
 ---
