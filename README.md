@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-08-09)*
+- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-08-08)*
+- **[moomooskycow/workbench](https://github.com/moomooskycow/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-08-08)*
 - **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-08)*
-- **[misty-step/kelpie](https://github.com/misty-step/kelpie)** `Rust` — Phone-first console for triaging a fleet of omp coding agents in herdr terminal workspaces *(2026-08-07)*
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-08-07)*
-- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-07)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-08-07)*
+- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-08)*
 <!-- RECENT:END -->
 
 ---
