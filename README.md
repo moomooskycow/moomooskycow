@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/canary](https://github.com/misty-step/canary)** `Rust` — Open-source, self-hosted observability for agent-driven infrastructure *(2026-08-09)*
-- **[misty-step/powder](https://github.com/misty-step/powder)** `Rust` — Agent-first work board for the Factory *(2026-08-08)*
-- **[moomooskycow/workbench](https://github.com/moomooskycow/workbench)** `Shell` — dotfiles, configs, references, and so on *(2026-08-08)*
-- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-08)*
-- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-08)*
+- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-08-10)*
+- **[misty-step/bench](https://github.com/misty-step/bench)** `Python` — A public benchmark laboratory — small, sharp, reproducible LLM benchmarks with their full method attached. Runs executed through Crucible. *(2026-08-10)*
+- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-08-10)*
+- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-08-09)*
+- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-09)*
 <!-- RECENT:END -->
 
 ---
