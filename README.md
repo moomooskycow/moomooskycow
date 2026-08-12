@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-08-11)*
+- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-12)*
 - **[misty-step/iron-forest-e2e-clean](https://github.com/misty-step/iron-forest-e2e-clean)** `Shell` *(2026-08-11)*
+- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-08-11)*
 - **[misty-step/iron-forest-e2e](https://github.com/misty-step/iron-forest-e2e)** `Shell` — Disposable Iron Forest end-to-end proof repository *(2026-08-10)*
 - **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-08-10)*
-- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-08-10)*
 <!-- RECENT:END -->
 
 ---
