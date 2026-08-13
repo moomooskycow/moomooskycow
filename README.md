@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-12)*
 - **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-12)*
-- **[misty-step/iron-forest-e2e-clean](https://github.com/misty-step/iron-forest-e2e-clean)** `Shell` *(2026-08-11)*
-- **[misty-step/crucible](https://github.com/misty-step/crucible)** `Rust` — Multi-model backlog grooming and strategic planning council — cerberus's proactive counterpart *(2026-08-11)*
-- **[misty-step/iron-forest-e2e](https://github.com/misty-step/iron-forest-e2e)** `Shell` — Disposable Iron Forest end-to-end proof repository *(2026-08-10)*
-- **[misty-step/sploot](https://github.com/misty-step/sploot)** `TypeScript` — Sploot — a private library for your memes and screenshots. Save from anywhere, find any of them by typing what's in the picture. *(2026-08-10)*
+- **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-08-12)*
+- **[moomooskycow/trump-goggles-splash](https://github.com/moomooskycow/trump-goggles-splash)** `JavaScript` — Landing page for the Trump Goggles Chrome Extension - transforms text to 'Trumpisms' with a retro Americana design *(2026-08-12)*
+- **[moomooskycow/timeismoney](https://github.com/moomooskycow/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-08-12)*
 <!-- RECENT:END -->
 
 ---
