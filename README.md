@@ -31,11 +31,11 @@ Agents that monitor, review, and ship code:
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-14)*
-- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-13)*
-- **[moomooskycow/timeismoney](https://github.com/moomooskycow/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-08-13)*
-- **[misty-step/doomscrum](https://github.com/misty-step/doomscrum)** `Rust` — Backlog triage as a TikTok feed that actually ships code — swipe right on a spec and a real coding agent opens a real PR. *(2026-08-12)*
-- **[moomooskycow/trump-goggles-splash](https://github.com/moomooskycow/trump-goggles-splash)** `JavaScript` — Landing page for the Trump Goggles Chrome Extension - transforms text to 'Trumpisms' with a retro Americana design *(2026-08-12)*
+- **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-08-14)*
+- **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-08-14)*
+- **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-08-14)*
+- **[moomooskycow/scratch](https://github.com/moomooskycow/scratch)** `Ruby` — disposable notes from the command line *(2026-08-14)*
+- **[moomooskycow/vanity](https://github.com/moomooskycow/vanity)** `JavaScript` — whadup *(2026-08-14)*
 <!-- RECENT:END -->
 
 ---
