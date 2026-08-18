@@ -32,10 +32,10 @@ Agents that monitor, review, and ship code:
 
 <!-- RECENT:START -->
 - **[misty-step/linejam](https://github.com/misty-step/linejam)** `TypeScript` — Pass-the-poem party game for friends *(2026-08-17)*
-- **[misty-step/chrondle](https://github.com/misty-step/chrondle)** `TypeScript` — the daily history game. guess the year of historical events in six tries or less! *(2026-08-17)*
+- **[misty-step/iron-forest](https://github.com/misty-step/iron-forest)** `Go` *(2026-08-17)*
 - **[misty-step/scry](https://github.com/misty-step/scry)** `Rust` — Shared learning engine kernel: canonical domain types, FSRS reference scheduler, deterministic grader. Pure, framework-free. *(2026-08-17)*
-- **[misty-step/cantrip](https://github.com/misty-step/cantrip)** `Rust` — Local-first dictation for Linux *(2026-08-16)*
-- **[misty-step/brainrot](https://github.com/misty-step/brainrot)** `TypeScript` — Monorepo for Brainrot Publishing House - Gen Z translations of classic literature *(2026-08-16)*
+- **[misty-step/omp-config](https://github.com/misty-step/omp-config)** `TypeScript` *(2026-08-17)*
+- **[moomooskycow/timeismoney](https://github.com/moomooskycow/timeismoney)** `JavaScript` — chrome extension that converts prices into hours of work *(2026-08-17)*
 <!-- RECENT:END -->
 
 ---
